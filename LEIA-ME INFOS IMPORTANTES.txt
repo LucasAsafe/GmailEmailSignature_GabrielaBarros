@@ -1,0 +1,11 @@
+FONTE: BEBAS NEUE
+
+font-family: bebas-neue, sans-serif;
+font-style: normal;
+font-weight: 400, 700;
+
+cor da fonte: #383838
+
+linha: 1px solid #a1d6e2
+
+link do linkedin: https://www.linkedin.com/in/gabriela-barros-b21a6a130/
